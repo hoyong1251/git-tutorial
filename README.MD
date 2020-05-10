@@ -1,1 +1,2 @@
-"local->github" 
+"local->github"  good
+"github->local 
